@@ -1,5 +1,5 @@
 *   🖥️  See my portfolio at [datavortex](http://datavortex.nl)
-*   🚀  I'm currently working on [a backend for novi](http://novi.datavortex.nl)
+*   🚀  I have made [a backend for novi](http://novi.datavortex.nl)
 *   🧠  I'm learning more about Java, Springboot in combination with microservices
 
 ### Skills 
