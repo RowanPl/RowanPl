@@ -1,6 +1,7 @@
 *   🖥️  See my portfolio at [datavortex](http://datavortex.nl)
 *   🚀  I have made [a backend for novi](http://novi.datavortex.nl)
 *   🧠  I'm learning more about Java, Springboot in combination with microservices
+*   🚶  Currently working on a PWA walking app, More comming soon!
 
 ### Skills 
 <p align="left">
